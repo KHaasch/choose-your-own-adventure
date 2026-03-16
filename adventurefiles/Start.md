@@ -10,4 +10,4 @@ Has our adventurer encountered a bunker? A Castle🏰? A prison?
 Another newbie adventurer appears and the two decided to explore further. 
 
 ## Begin Your Adventure here
-🚀Begin your journey
+🚀[Begin your journey](./scene1.md)
