@@ -12,5 +12,5 @@ As you finish reading the note your fellow adventurer says
 "I hear footsteps in the next room!" 
 
 [go by the door](./scene3.md)
-
+[talk to your fellow adventurer](./scene3.md)
 
