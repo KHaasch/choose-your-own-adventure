@@ -4,4 +4,4 @@ He runs at you with an amazing burst of speed and catches you.
 
 Unfortunately for you, you are now locked up in Jail and it's Game Over.
 
-[return to the start](./Start.md)
+🚀[return to the start](./Start.md)
