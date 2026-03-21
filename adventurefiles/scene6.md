@@ -8,4 +8,4 @@ Further down the hallway you see a guard's back. He appears to be patrolling the
 
 Do we:
 🚪[go into the unmarked door](./scene7.md)
-🔍[investigate the crates](./scene9.md)
+
