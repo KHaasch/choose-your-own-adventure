@@ -1,6 +1,6 @@
 # The Jail
 
-You and your co-adventurer take door to the left. It leads into another hallway lined by 8 jail cells on one side and 5 on the other side. All the cells are empty, except for one. 
+You and your co-adventurer take the door to the left. It leads into another hallway lined by 8 jail cells on one side and 5 on the other side. All the cells are empty, except for one. At the one end is a barred window. 
 
 You approach the cell cautiously so not to startle the guy. 
 
