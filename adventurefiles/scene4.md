@@ -1,5 +1,8 @@
-# Talking to our Fellow Adventurer  part 2
+# Nothing futher Found
 
-Not finding anything else, you and your co-adventurer decide to move on. 
+After further exploring the entryway you and your fellow explorer have determined there is nothing else of value. 
 
-[moving on](./scene5.md)
+Both of you move to the unopened door.
+
+🚪[go to the door](./scene5.md)
+      
